@@ -876,7 +876,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#main {
-				width: 25em;
+				width: 26em;
 			}
 
 				body.fullscreen #main {
@@ -1276,7 +1276,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#viewer {
-				width: calc(100% - 25em);
+				width: calc(100% - 26em);
 			}
 
 		}
